@@ -1,5 +1,3 @@
-app = "your-app-name"  # Replace this later in Fly UI
-
 [env]
   PASSWORD = "changeme123"  # Replace this with a secure password
 
