@@ -1,7 +1,7 @@
-app = "coded-a"  # Replace this later in Fly UI
+app = "coded-pjfooq"
 
 [env]
-  PASSWORD = "changeme123"  # Replace this with a secure password
+  PASSWORD = "changeme123" # Change this to a strong password before going live
 
 [[services]]
   internal_port = 8080
